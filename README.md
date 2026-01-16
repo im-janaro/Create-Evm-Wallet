@@ -1,5 +1,3 @@
-# Create-Evm-Wallet
-
 # Generates EVM compatible wallet
 
 Generates EVM compatible mnemonic phrases and their corresponding public keys, while automatically saving the private keys to a text file.
